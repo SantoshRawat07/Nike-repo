@@ -1,0 +1,221 @@
+*{
+    box-sizing:border-box;
+    margin: 0%;
+    padding: 0%;
+    
+}
+.friday{
+    height: 100vh;
+    width: 100vw;
+}
+.can {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    gap: 20px;
+}
+.word{
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.capi{
+    text-transform: capitalize;
+    font-size: larger;
+    font:bolder;
+}
+.flex{
+  
+    display: flex;
+    background-color:whitesmoke;
+}
+.candy{
+    background-color: aqua;
+    margin: 0%;
+    padding: 0%;
+}
+.image{
+
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    object-fit: cover;
+    color: #fff;
+}
+.nancy{
+    display: flex;
+   justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.second{
+    align-items: flex-end;
+    justify-content: space-between;
+    font: bold;
+    margin-top: 30px;
+    margin-left: 10px;
+    padding:100px;}
+.first{
+    align-items: flex-end;
+    justify-content: space-between;
+    font: bold;
+    margin-top: 30px;
+    margin-left: 10px;
+    padding-left: 30px;
+}
+.image4{
+    width: 100vw;
+    height: 100vh;  
+  }
+  .nav:hover{
+    color: navy;
+    text-decoration: underline;
+    font-weight: bolder;
+    background-color: aqua;
+   
+  }
+.san{
+    text-decoration: none;
+   display: flex;
+   gap: 10px;
+   align-items: center;
+   justify-content:flex-end;
+   margin-left: auto;
+   margin-right: 5px;
+}
+ .word.shop :hover{
+  color: black;
+  border-radius: 50%;
+  transition: 0.5s;
+}
+.nav{
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 100%;
+}
+.nike{
+    display: flex;
+   background-color: white;
+}
+.image3{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+}
+.image5{
+  width: 100vh;
+  height: 100vw;
+    object-fit: cover;}
+    
+  .image6{
+      width: 100vw;
+      height: 100vh;
+        object-fit: cover;}
+
+.ant{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    justify-content:center;
+   text-align: center;
+   margin-left: 485px;
+}
+.search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 420px;
+    
+}
+#imagefooter{
+  display: flex;
+  align-items: center;
+  margin-left: 690px;
+  margin-right: 100px;
+}
+
+.fnav {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    font-size: 15px;
+    color: black;
+    margin-bottom: 80px;
+  }
+  footer {
+    height: 300px;
+  }
+  .lastfoot {
+    display: flex;
+    justify-content: center;
+    gap: 110px;
+    font-family: "Helvetica Now Text Medium", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+  }
+  .lastfoot2 {
+    display: flex;
+    justify-content: center;
+    gap: 110px;
+    font-family: "Helvetica Now Text Medium", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    margin-right: 70px;
+    font-weight: bold;
+    color: rgba(20, 20, 20, 0.808);
+  }
+  .secondnav {
+    color: rgba(107, 106, 106, 0.754);
+    font-size: 16px;
+    margin-top: 30px;
+    font-weight: bold;
+    line-height: 40px;
+  }
+  .secondnav2 {
+    color: rgba(107, 106, 106, 0.754);
+    font-size: 15px;
+    margin-top: 30px;
+    font-weight: bold;
+    line-height: 30px;
+    margin-right: 50px;
+  }
+  .right {
+    justify-content: left !important;
+    display: flex !important;
+  }
+  .lastline {
+    border: 0.5px solid rgba(87, 87, 87, 0.297);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    opacity: 50%;
+  }
+  .lastlogo33 {
+    display: flex;
+    color: rgba(87, 87, 87, 0.763);
+    gap: 5px;
+  }
+  .name {
+    padding-top: 4px;
+  }
+  
+  .search33:hover {
+    border: none;
+    background-color: #6464643c;
+  }
+  .lastfooter33{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding-right: 70px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    color: rgba(60, 60, 60, 0.74);
+    font-size: 15px;
+    font-weight: bold;
+  }
